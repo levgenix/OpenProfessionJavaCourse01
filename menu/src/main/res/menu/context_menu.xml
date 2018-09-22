@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Evgeny V. Lobach on 22.09.18 22:23
+  ~ Copyright (c) 2018 | www.itstudio.app | All rights reserved.
+  ~ Last modified 22.09.18 22:23
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Item 1 from XML" />
+    <item android:title="Item 2 from XML" />
+</menu>

@@ -1,0 +1,11 @@
+<!--
+  ~ Created by Evgeny V. Lobach on 22.09.18 21:42
+  ~ Copyright (c) 2018 | www.itstudio.app | All rights reserved.
+  ~ Last modified 22.09.18 21:41
+  -->
+
+<resources>
+    <string name="app_name">CustomToast OpenProfession Java Course01</string>
+    <string name="your_name">Your Name?</string>
+    <string name="tap_me">Tap me!</string>
+</resources>

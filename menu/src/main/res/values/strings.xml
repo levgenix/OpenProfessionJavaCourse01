@@ -1,0 +1,10 @@
+<!--
+  ~ Created by Evgeny V. Lobach on 22.09.18 22:15
+  ~ Copyright (c) 2018 | www.itstudio.app | All rights reserved.
+  ~ Last modified 22.09.18 22:15
+  -->
+
+<resources>
+    <string name="app_name">Menu OpenProfession Java Course01</string>
+    <string name="context_menu_header">It\'s a Header</string>
+</resources>
