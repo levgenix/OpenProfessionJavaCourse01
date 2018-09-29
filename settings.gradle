@@ -4,4 +4,5 @@
  * Last modified 22.09.18 21:41
  */
 
-include ':app', ':customtoast', ':menu'
+//include ':app', ':customtoast', ':menu'
+include ':customtoast', ':menu', ':intent'
