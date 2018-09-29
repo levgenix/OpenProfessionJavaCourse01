@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Evgeny V. Lobach on 23.09.18 5:59
+  ~ Copyright (c) 2018 | www.itstudio.app | All rights reserved.
+  ~ Last modified 23.09.18 5:59
+  -->
+
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>

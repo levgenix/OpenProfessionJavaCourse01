@@ -1,0 +1,16 @@
+<!--
+  ~ Created by Evgeny V. Lobach on 23.09.18 10:44
+  ~ Copyright (c) 2018 | www.itstudio.app | All rights reserved.
+  ~ Last modified 23.09.18 10:44
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="app.itstudio.intent.AboutActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>

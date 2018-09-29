@@ -1,0 +1,11 @@
+<!--
+  ~ Created by Evgeny V. Lobach on 23.09.18 10:44
+  ~ Copyright (c) 2018 | www.itstudio.app | All rights reserved.
+  ~ Last modified 23.09.18 10:44
+  -->
+
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+</resources>
