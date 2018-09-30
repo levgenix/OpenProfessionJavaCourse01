@@ -5,4 +5,4 @@
  */
 
 //include ':app', ':customtoast', ':menu'
-include ':customtoast', ':menu', ':intent'
+include ':customtoast', ':menu', ':intent', ':fragment'

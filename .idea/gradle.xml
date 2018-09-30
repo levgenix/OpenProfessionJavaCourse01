@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/customtoast" />
+            <option value="$PROJECT_DIR$/fragment" />
             <option value="$PROJECT_DIR$/intent" />
             <option value="$PROJECT_DIR$/menu" />
           </set>
